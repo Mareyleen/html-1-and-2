@@ -1,0 +1,39 @@
+body{
+	background-color: #FE423F;
+	margin-right: 100px;
+	margin-left: 200px;
+	width: 90%;
+	margin-top: 20px;
+}
+
+#first-box{
+	height: 6vh;
+	background-color: lightblue;
+	margin-bottom: 30px;
+	width: 80%;
+}
+
+#second-box{
+	height: 30vh;
+	background-color: lightblue;
+	margin-bottom: 30px;
+	width: 80%;
+}
+
+.box-container{ display: flex;
+	width: 80%;
+	height: 35vh;
+	justify-content: space-between;
+
+}
+.box-container>div{background-color: lightblue;
+	height: 30vh;
+	width: 28%;
+}
+
+#last-box{
+	height: 15vh;
+	background-color: lightblue;
+	margin-bottom: 25px;
+	width: 80%;
+}

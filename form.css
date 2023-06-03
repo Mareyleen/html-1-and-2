@@ -1,0 +1,53 @@
+body{
+	background-image: url("https://media.istockphoto.com/id/1349094945/photo/human-using-a-computer-laptop-for-searching-for-job-and-fill-out-personal-data-on-job-website.jpg?b=1&s=170667a&w=0&k=20&c=p_SRXAc7KnjTOB803Xap7irCB8xgiAey1SerMMFj-x8=");
+	background-repeat: no-repeat;
+	background-size: cover;
+	border: 2px solid darkcyan;
+	border-color: darkred;
+	margin: 40px 60px 40px 40px;
+	width: 40%;
+	height: 100vh;
+	border-radius: 20px;
+	padding: 15px;
+}
+
+main{
+	background-color: lightblue;
+	border: 1px solid darkcyan;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	border-radius: 10px;
+	padding-top: 5px;
+	padding-bottom: 20px;
+	border-bottom: 100px
+
+}
+h1{
+	font-family: sans-serif;
+	font-size: 55px;
+}
+
+.red{color: red;}
+
+label{
+	color: gray;
+	font-family: garamound;
+	font-size: 20px;
+	font-style: inherit;
+	font-weight: bolder;
+}
+
+#gender{
+	color: gray;
+	font-weight: bold;
+}
+
+
+#submit-con{
+	border: 1px solid gray;
+	width: 57px;
+	bo
+}
+
+
+
